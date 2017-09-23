@@ -1,0 +1,74 @@
+.menu{
+
+	background-image: linear-gradient(to bottom, #3a0707 0%, #b11c1c 100%);
+}
+
+.navbar-inverse .navbar-nav > .active > a {
+ background-image: linear-gradient(to bottom, #2f0d0d 0%, #9a1b1b 100%);
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fffbfb;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fffefe;
+}
+
+.left{
+
+	padding-top: 20px;
+
+
+}
+
+.right{
+	
+	float:right;
+	padding-top: 25px;
+}
+
+.img{
+
+	padding-top: 129px;
+}
+
+legend{
+	
+	color: #941717;
+
+	 font-weight: bold;
+}
+
+.error{
+
+	color: #941717;
+}
+
+.email{
+
+	margin-right: 20px;
+}
+
+.img-index{
+
+	padding-top: 40px;
+}
+
+.noticia{
+
+	background-color: #A81A1A;
+	color: #fff;
+	
+}
+.text{
+
+	font-style: normal;
+	font-family: times;
+	
+}
+.index{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
